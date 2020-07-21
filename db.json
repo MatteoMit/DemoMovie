@@ -6,7 +6,7 @@
     {
         "id": "2",
         "name": "Tom Holland",
-        "movies": "Spider Man,Far From Home"
+        "movies": "Spider Man"
     },
     {
         "id": "3",
@@ -16,10 +16,10 @@
     {
         "id": "4",
         "name": "Zheng Xu",
-        "movies": "Wo bu shi yao shen"
+        "movies": "Wo bu shi"
     },
     {
         "id": "5",
         "name": "Wu Jiang",
-        "movies": "Bao lie wu sheng"
+        "movies": "Bao lie"
     }]
