@@ -1,6 +1,4 @@
-{
-    "results": [
-    {
+    [{
         "id": "1",
         "name": "RDJ",
         "movies": "100"
@@ -25,4 +23,3 @@
         "name": "Chris Evans",
         "movies": "20"
     }]
-}
